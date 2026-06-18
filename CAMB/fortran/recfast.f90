@@ -719,7 +719,7 @@
                 endif
 
             else if (di_in < 0) then
-                if (i < Nz - abs(di_in)) then
+                if (i < Nz - abs(di_in) .and. i + di_in > 0) then
                     Calc%xnew(i + di_in) = Calc%xtemp(i)
                     Calc%xrec(i + di_in) = Calc%xnew(i + di_in)
 

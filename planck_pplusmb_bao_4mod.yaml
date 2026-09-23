@@ -1,6 +1,6 @@
 theory:
   camb:
-    path: /Users/hamid/Desktop/Coding/cosmoverse/CAMB
+    path: /path/to/CAMB
     extra_args:
       lens_potential_accuracy: 1
       num_massive_neutrinos: 1

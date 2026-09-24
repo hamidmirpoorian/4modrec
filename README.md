@@ -21,7 +21,7 @@ The four parameters are:
 | `sigw` | Width $\sigma_{\mathrm b}$ of the Gaussian-shaped bump. |
 | `dzin` | Overall shift of the unmodified ionization history in redshift, quantified by $\Delta z_{\mathrm{shift}}$. |
 
-The flat $\Lambda$CDM limit is recovered for $A_{\mathrm b}=0$ and $\Delta z_{\mathrm{shift}}=0$, with $z_{\mathrm b}$ and $\sigma_{\mathrm b}$ then becoming irrelevant.
+The flat $\Lambda\mathrm{CDM}$ limit is recovered for $A_{\mathrm b}=0$ and $\Delta z_{\mathrm{shift}}=0$, with $z_{\mathrm b}$ and $\sigma_{\mathrm b}$ then becoming irrelevant.
 
 ## Installation
 
